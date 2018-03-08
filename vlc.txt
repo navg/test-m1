@@ -1,0 +1,3 @@
+ :screen-follow-mouse :screen-mouse-image=file:///c:/temp/pointer.png
+
+https://nofile.io/f/Fwn25BORjnN/vlc.txt
